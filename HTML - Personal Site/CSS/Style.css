@@ -1,0 +1,62 @@
+.myPic {
+  height: 120;
+  width: 30%;
+}
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 20%;
+}
+
+h1 {
+  letter-spacing: 3px;
+  text-align: center;
+  color: #66BFBF;
+}
+
+h3 {
+  text-align: center;
+  color: #66BFBF;
+}
+
+p {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: left;
+  vertical-align: bottom;
+  align-self: center;
+  align-content: center;
+}
+
+th {
+  background-color: #add8e6;
+  color: white;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+}
+
+tr {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: grey;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+.hvr:hover{
+  background-color: rgb(200, 200, 200);
+
+}
