@@ -71,3 +71,12 @@ body{
     background-color: rgb(33, 27, 68);
     border-color: rgb(19, 218, 69);
 }
+
+.box input[type="text"]:hover , .box input[type="password"]:hover{
+    margin: 10px;
+    height: 28px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: rgb(33, 27, 68);
+    color: ivory;
+}
